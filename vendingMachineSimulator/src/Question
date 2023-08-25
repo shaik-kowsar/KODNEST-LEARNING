@@ -1,0 +1,7 @@
+Create a program that simulates a vending machine. The program should take a product code as input and output the product name.
+
+Note:
+
+Include Cocacola, Pepsi ,Fanta,JalJeera,MountainDew,and BoatGuava in the list
+
+By Default Let the Drink be Panaka.
